@@ -1,0 +1,17 @@
+body{
+    background-color: #fff06b;
+}
+
+.num {
+    margin-left: 44%;
+    margin-top: 25%;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(106, 255, 0);
+    align-items: center;
+}
+
+.btn1 {
+    margin-left: 42%;
+    margin-right: 20px;
+}
